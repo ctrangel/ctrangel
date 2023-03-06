@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi👋, I'm Christian
+Welcome to my GitHub
+
+I'm a first year applied computer science student at Point Park University
+
+- 📫 How to reach me: rangeltchristian@gmail.com
+
+
 
 <!--
 **ctrangel/ctrangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
