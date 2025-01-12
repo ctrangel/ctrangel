@@ -1,7 +1,7 @@
 ### Hi👋, I'm Christian
 Welcome to my GitHub
 
-I'm a third-year applied computer science student at Point Park University.
+I'm a fourth-year applied computer science student at Point Park University.
 
 - 📫 How to reach me: rangeltchristian@gmail.com
 
